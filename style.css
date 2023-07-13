@@ -87,7 +87,7 @@
         cursor: pointer;
         transition: 0.3s ease;
         left: 72.6%;
-        top: -145px;
+        top: -169px;
         
         }
         .right img:hover{
@@ -116,3 +116,13 @@
             border: 2px solid red;
             margin-bottom: 2rem;
             }
+
+            h5, video{
+              position: relative;
+              left: 900px;
+              top: -90px;
+                
+
+            }
+
+            
